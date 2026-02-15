@@ -1,16 +1,16 @@
 
 # Chess AI Project
-
 Welcome to my Chess AI project! This application features a fully functional chess GUI with move validation and legal move highlighting.
+
+## 🧠 Engine Performance
+This Mini-Max Chess AI will play at a rating of around 800 ELO on Chess.com.
 
 ## 📸 Screenshots & Features
 
-**Standard Board Setup:**
-![Chess Board Setup](image_ce2c21.png)
 
 **Legal Move Highlighting:**
 When a piece is selected (e.g., the White Pawn below), the engine calculates and highlights valid moves in green.
-![Legal Moves](image_ce2c5a.png)
+
 
 ---
 
