@@ -41,4 +41,4 @@ pip install pygame
 ```bash
 python main.py
 ```
-Note: Ensure you are running the command from the project root (the folder containing the src directory) so that the engine can correctly locate the game assets and modules.
+Note: Ensure you are running the command from the project root so that the engine can correctly locate the game assets and modules.
