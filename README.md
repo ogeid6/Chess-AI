@@ -34,9 +34,10 @@ pip install pygame
 ```
 ### 4. Running the Chess AI
    
-1.  To launch the application and start playing against the AI, you need to execute the main entry point located within the source directory.
-2.  Navigate to the root directory of the project in your terminal.
-3.  Execute the script using the following command:
+1.  To start playing against the AI, you need to execute the main.py file located within the source directory.
+2.  game_mode = 0 means human plays white while game_mode = 1 means computer plays white, depth is the deepness of the minimax tree (default is 2).
+3.  Navigate to the root directory of the project in your terminal.
+4.  Execute the script using the following command:
 ```bash
 python src/main.py
 ```
