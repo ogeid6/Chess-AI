@@ -3,16 +3,7 @@
 Welcome to my Chess AI project! This application features a fully functional chess GUI with move validation and legal move highlighting.
 
 ## 🧠 Engine Performance
-This Mini-Max Chess AI will play at a rating of around 800 ELO on Chess.com.
-
-## 📸 Screenshots & Features
-
-
-**Legal Move Highlighting:**
-When a piece is selected (e.g., the White Pawn below), the engine calculates and highlights valid moves in green.
-
-
----
+This Mini-Max Chess AI will play at a rating of around 600 ELO based on Chess.com.
 
 ## 🚀 Getting Started
 
@@ -40,3 +31,13 @@ You need to install the `pygame` library to render the graphical interface.
 **For Windows:**
 ```bash
 pip install pygame
+```
+### 4. Running the Chess AI
+   
+1.  To launch the application and start playing against the AI, you need to execute the main entry point located within the source directory.
+2.  Navigate to the root directory of the project in your terminal.
+3.  Execute the script using the following command:
+```bash
+python src/main.py
+```
+Note: Ensure you are running the command from the project root (the folder containing the src directory) so that the engine can correctly locate the game assets and modules.
